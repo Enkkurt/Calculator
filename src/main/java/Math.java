@@ -20,8 +20,11 @@ public class Math {
 
     public static double subtract(double num1 , double num2){
 
+        int num = 5;
+
         double result = num1-num2;
         return result;
+
         
         //xyz
 
